@@ -2,6 +2,8 @@ TBD
 ===
 Unreleased changes. Release notes have not yet been written.
 
+* Release 15.2.2 placeholder entry.
+
 
 15.2.0 (2026-07-15)
 ===================
